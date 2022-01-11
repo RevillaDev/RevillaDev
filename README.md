@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Kirenai" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kirenai&show_icons=true&theme=onedark " />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirenai&layout=compact&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirenai&show_icons=true&theme=onedark " />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirenai&layout=compact&show_icons=true&theme=onedark" />
 <div>
   
 <div>
