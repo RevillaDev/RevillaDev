@@ -1,4 +1,4 @@
-## Pool Revilla @Kirenai profile 👋
+## Revilla @Kirenai profile 👋
 
 <div>
   <a href="https://github.com/Kirenai" />
