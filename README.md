@@ -18,4 +18,4 @@
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-![Snake animation](https://github.com/Kirenai/Kirenai/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Kirenai/Kirenai/blob/output/github-snake-dark.svg)
