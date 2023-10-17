@@ -1,4 +1,4 @@
-# Pool Eduardo Revilla profile 👋
+# Revilla profile 👋
 
 <div>
   <a href="https://github.com/Kirenai" />
