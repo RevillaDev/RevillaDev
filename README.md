@@ -1,6 +1,7 @@
 # Revilla Dev profile 👋
 
 ![RevillaDev Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
   
 ## Lenguages & Tools
 <div>
