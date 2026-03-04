@@ -1,10 +1,6 @@
 # Revilla Dev profile 👋
 
-<div>
-  <a href="https://github.com/RevillaDev" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RevillaDev&show_icons=true&theme=onedark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevillaDev&layout=compact&show_icons=true&theme=onedark" />
-<div>
+![RevillaDev Stats](./profile/stats.svg)
   
 ## Lenguages & Tools
 <div>
